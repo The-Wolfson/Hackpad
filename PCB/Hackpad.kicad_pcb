@@ -10435,6 +10435,30 @@
 		(layer "Edge.Cuts")
 		(uuid "66ec4d1d-2fa0-4ae1-a94b-8e6df1c542af")
 	)
+	(gr_text "The-Wolf\nMIDI (Pro) Pad"
+		(at 180 134.5 0)
+		(layer "F.SilkS")
+		(uuid "12103eca-b6e4-4f1d-a014-8f93941381d1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "XIAO Here"
+		(at 181.5 102 0)
+		(layer "F.SilkS")
+		(uuid "be34cac0-2aaf-4bf2-9e29-1b7ae0d25c04")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 141.189936 102.69)
 		(end 136.5 102.69)
