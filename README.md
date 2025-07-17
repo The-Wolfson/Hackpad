@@ -1,7 +1,7 @@
 # MIDI (Pro) Pad
 A hackpad built for [Hacklub's YSWS](hackpad.hackclub.com) that sends MIDI Control Messages to your DAW of choice. It features 2 rotary encoders, 9 switches, and 16 addressable LEDs.
 
-![Assembled](Assets/Assembled.png)
+![Assembled](Assets/Hackpad.png)
 ![Case](Assets/Case.png)
 ![PCB](Assets/PCB.png)
 ![Schematic](Assets/Schematic.png)
